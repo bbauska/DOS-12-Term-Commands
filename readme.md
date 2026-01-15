@@ -1,5 +1,5 @@
-# 12 Term Commands
-12 terminal commands we should all know.
+# DOS 12 Term Commands
+12 disk operaing system terminal commands we should all know.
 
 **12 Terminal Commands Every Web Developer Should Know About**
 
@@ -278,4 +278,5 @@ Serving HTTP on 0.0.0.0 port 9000 ...
 
 The alias will be available as long as you keep that terminal open. To
 make it permanent you can add the alias command to your .bashrc file.
+
 
